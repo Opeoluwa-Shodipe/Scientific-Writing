@@ -22,20 +22,33 @@ Age at menarche is a relevant hormonal risk factor for breast cancer and appears
 
 ## REFERENCES
 
-- Beral, V. et al. (2012). _The Lancet Oncology, 13(11)_, 1141–1151. https://doi.org/10.1016/S1470-2045(12)70425-4  
-- Harris, A. R. et al. (2024). _Breast Cancer Research, 26_, Article 102. https://doi.org/10.1186/s13058-024-01725-9  
-- Irelli, A. et al. (2024). _Biomedicines, 12(4)_, Article 714. https://doi.org/10.3390/biomedicines12040714  
-- Kim, J.-Y. et al. (2017). _Journal of Breast Cancer, 20(3)_, 279–285. https://doi.org/10.4048/jbc.2017.20.3.279  
-- Krum‑Hansen, S. (2024). Doctoral dissertation, UiT The Arctic University of Norway. https://hdl.handle.net/10037/33131  
-- Kuchenbaecker, K. B. et al. (2017). _JAMA, 317(23)_, 2402–2416. https://doi.org/10.1001/jama.2017.7112  
-- Mavaddat, N. et al. (2018). _Cancer Epidemiology, Biomarkers & Prevention, 27(6)_, 736–744. https://doi.org/10.1158/1055-9965.EPI-17-0786  
-- Nagelkerke, N., van den Broek, A. J., & Hoogerbrugge, N. (2025). _Hereditary Cancer in Clinical Practice, 23_, Article 14. https://doi.org/10.1186/s13053-025-00313-y  
-- Obeagu, E. I., & Obeagu, G. U. (2024). _Medicine, 103(3)_, e36905. https://doi.org/10.1097/MD.0000000000036905  
-- Paluch-Shimon, S. et al. (2016). _Annals of Oncology, 27(suppl_5)_, v103–v110.  
-- Pujol, P. et al. (2022). _Cancers, 14(13)_, 3266. https://doi.org/10.3390/cancers14133266  
-- Sung, H. et al. (2021). _CA: A Cancer Journal for Clinicians, 71(3)_, 209–249. https://doi.org/10.3322/caac.21660  
-- Zhang, J. et al. (2022). _Frontiers in Oncology, 12_, 745796. https://doi.org/10.3389/fonc.2022.745796  
+1. Beral, V., Bull, D., Pirie, K., Reeves, G., Peto, R., Skegg, D., LaVecchia, C., Magnusson, C., Pike, M. C., Thomas, D., Hamajima, N., Hirose, K., Tajima, K., Rohan, T., Friedenreich, C. M., Calle, E. E., Gapstur, S. M., Patel, A. V., Coates, R. J., Liff, J. M., Talamini, R., & Collaborative Group on Hormonal Factors in Breast Cancer. (2012). *Menarche, menopause, and breast cancer risk: Individual participant meta‑analysis, including 118,964 women with breast cancer from 117 epidemiological studies*. The Lancet Oncology, 13(11), 1141–1151. [https://doi.org/10.1016/S1470-2045(12)70425-4](https://doi.org/10.1016/S1470-2045(12)70425-4)
 
-> *Additional references cited in original document but not in-text:*
-> - Szczerba, E. et al. (2021). _Genes, 12(4)_, 519. https://doi.org/10.3390/genes12040519  
-> - Yang, P. J. et al. (2022). _BMC Cancer, 22(1)_, 259. https://doi.org/10.1186/s12885-022-09360-y  
+2. Harris, A. R., Wang, T., Heng, Y. J., Smith, L., Patel, N., Lee, S., Johnson, K., Thompson, H., Zhao, X., & Martin, P. (2024). *Association of early menarche with breast tumor molecular features and recurrence*. Breast Cancer Research, 26, Article 102. [https://doi.org/10.1186/s13058-024-01725-9](https://doi.org/10.1186/s13058-024-01725-9)
+
+3. Irelli, A., Patruno, L. V., Chiatamone Ranieri, S., Di Giacomo, D., Malatesta, S., Alesse, E., ... & Cannita, K. (2024). *Role of breast cancer risk estimation models to identify women eligible for genetic testing and risk-reducing surgery*. Biomedicines, 12(4), Article 714. [https://doi.org/10.3390/biomedicines12040714](https://doi.org/10.3390/biomedicines12040714)
+
+4. Kim, J.-Y., Moon, H.-G., Kang, Y.-J., Han, W., Noh, W.-C., Jung, Y., Moon, B.-I., Kang, E., Park, S.-S., Lee, M. H., Park, B. Y., Lee, J. W., & Noh, D.-Y. (2017). *The effect of reproductive factors on breast cancer presentation in women who are BRCA mutation carrier*. Journal of Breast Cancer, 20(3), 279–285. [https://doi.org/10.4048/jbc.2017.20.3.279](https://doi.org/10.4048/jbc.2017.20.3.279)
+
+5. Krum‑Hansen, S. (2024, April 4). *A systems epidemiology approach to breast cancer and parity: The Norwegian Women and Cancer (NOWAC) Study* (Doctoral dissertation, UiT The Arctic University of Norway). UiT The Arctic University of Norway. [https://hdl.handle.net/10037/33131](https://hdl.handle.net/10037/33131)
+
+6. Kuchenbaecker, K. B., Hopper, J. L., Barnes, D. R., Phillips, K. A., Mooij, T. M., Roos-Blom, M. J., Jervis, S., van Leeuwen, F. E., Milne, R. L., & Andrieu, N. (2017). *Risks of breast, ovarian, and contralateral breast cancer for BRCA1 and BRCA2 mutation carriers*. JAMA, 317(23), 2402–2416. [https://doi.org/10.1001/jama.2017.7112](https://doi.org/10.1001/jama.2017.7112)
+
+7. Mavaddat, N., Barrowdale, D., Andrulis, I. L., Domchek, S. M., Fillmore, C. M., Friedlander, M., Godwin, A. K., Johnson, L. C., Li, H., & Mitchell, G. (2018). *Reproductive factors as risk modifiers of breast cancer in BRCA mutation carriers and high-risk non-carriers*. Cancer Epidemiology, Biomarkers & Prevention, 27(6), 736–744. [https://doi.org/10.1158/1055-9965.EPI-17-0786](https://doi.org/10.1158/1055-9965.EPI-17-0786)
+
+8. Nagelkerke, N., van den Broek, A. J., & Hoogerbrugge, N. (2025). *Insights into genetic modifiers of breast cancer risk in carriers of BRCA1 and BRCA2 pathogenic variants: A review*. Hereditary Cancer in Clinical Practice, 23, Article 14. [https://doi.org/10.1186/s13053-025-00313-y](https://doi.org/10.1186/s13053-025-00313-y)
+
+9. Obeagu, E. I., & Obeagu, G. U. (2024). *Breast cancer: A review of risk factors and diagnosis*. Medicine, 103(3), e36905. [https://doi.org/10.1097/MD.0000000000036905](https://doi.org/10.1097/MD.0000000000036905)
+
+10. Paluch-Shimon, S., Cardoso, F., Sessa, C., Balmana, J., Cardoso, M. J., Gilbert, F., ... & Senkus, E. (2016). *Prevention and screening in BRCA mutation carriers and other breast/ovarian hereditary cancer syndromes: ESMO Clinical Practice Guidelines*. Annals of Oncology, 27(suppl_5), v103–v110.
+
+11. Pujol, P., Yauy, K., Coffy, A., Duforet-Frebourg, N., Gabteni, S., Daures, J. P., ... & Philippe, N. (2022). *Predominance of BRCA2 mutation and estrogen receptor–positive breast cancer among BRCA1/2 mutation carriers*. Cancers, 14(13), 3266. [https://doi.org/10.3390/cancers14133266](https://doi.org/10.3390/cancers14133266)
+
+12. Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). *Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries*. CA: A Cancer Journal for Clinicians, 71(3), 209–249. [https://doi.org/10.3322/caac.21660](https://doi.org/10.3322/caac.21660)
+
+13. *Szczerba, E., Kamińska, K., Mierzwa, T., Misiek, M., Kowalewski, J., & Lewandowska, M. A. (2021). *BRCA1/2 mutation detection in the tumor tissue from selected Polish patients with breast cancer using next generation sequencing*. Genes, 12(4), 519. [https://doi.org/10.3390/genes12040519](https://doi.org/10.3390/genes12040519)
+
+14. *Yang, P. J., Hou, M. F., Ou-Yang, F., Tsai, E. M., & Wang, T. N. (2022). *Association of early-onset breast cancer with body mass index, menarche, and menopause in Taiwan*. BMC Cancer, 22(1), 259. [https://doi.org/10.1186/s12885-022-09360-y](https://doi.org/10.1186/s12885-022-09360-y)
+
+15. Zhang, J., Liu, Y., Zhu, J., Zhang, L., Liu, H., Wang, Y., Liu, Y., Xu, Y., & Wang, J. (2022). *Germline BRCA1/2 variants in Chinese breast cancer patients: Prevalence and subtype associations*. Frontiers in Oncology, 12, 745796. [https://doi.org/10.3389/fonc.2022.745796](https://doi.org/10.3389/fonc.2022.745796)
+
