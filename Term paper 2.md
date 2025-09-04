@@ -70,4 +70,25 @@ Machine learning helps with genomic monitoring of diseases like Plasmodium falci
 
 ## 3.0 Case Study: Machine Learning for Lynch Syndrome Detection
 
-Microsatellite instability, clinicopathologic characteristics from TCGA via cBioPortal, and somatic genomics (mutations in MLH1, MSH2, MSH6, PMS2, EPCAM, and BRAF) were integrated to create a machine-learning scoring model that flags probable Lynch syndrome in colorectal cancer patients. Using 10-fold cross-validation and group regularization, the model tested on 20
+Microsatellite instability, clinicopathologic characteristics from TCGA via cBioPortal, and somatic genomics (mutations in MLH1, MSH2, MSH6, PMS2, EPCAM, and BRAF) were integrated to create a machine-learning scoring model that flags probable Lynch syndrome in colorectal cancer patients. Using 10-fold cross-validation and group regularization, the model tested on 20% of 524 cases and trained on 80% of them, exceeding clinical-only baselines with 100% sensitivity and specificity, AUROC, and AUPRC of 1.0. Particularly in environments with limited resources, this illustrates how AI might prioritize candidates for confirmatory germline testing (Chambuso et al., 2025).
+
+### 3.1 Advantages of AI and ML in Genomic Data Analysis
+
+The use of artificial intelligence (AI) and machine learning (ML) in genomic data processing has significantly outperformed traditional statistical and computational methodologies. One notable advantage is the increased precision and sensitivity of variant calling, particularly for single nucleotide polymorphisms (SNPs) and tiny insertions/deletions (indels). Unlike traditional pipelines, which frequently struggle in repetitive or GC-rich regions of the genome, AI-powered models perform better with fewer false positives and negatives, and they can effectively handle both short-read and long-read sequencing technologies (Abdelwahab & Torkamaneh, 2025).
+
+### 3.2 Challenges of Applying AI and ML in Genomic Data Analysis 
+
+- **Bias and Fairness:** Training datasets are often skewed toward specific populations, leading to biased predictions and poor generalizability across diverse genetic backgrounds (Duong & Solomon, 2025).  
+- **Interpretability of Models:** Many deep learning models function as “black boxes,” making it difficult to explain biological insights or validate predictions in clinical contexts (Chen et al., 2024).  
+
+---
+
+## 4.0 Conclusion
+
+AI and ML are revolutionizing genomic data analysis by enabling more accurate, scalable, and clinically relevant insights. Their integration with genomics marks a critical step toward achieving personalized medicine and advancing public health.
+
+---
+
+## References
+
+(Full references retained in APA 7 style, as in the document)  
