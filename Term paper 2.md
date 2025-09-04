@@ -2,11 +2,6 @@
 
 **By**  
 Shodipe, Opeoluwa Olutunde  
-Cell Biology and Genetics (Cell and Molecular Biology Option)  
-249072045  
-
-**Supervisor:** Dr. O.A Adeyemo  
-**Date:** August 2025  
 
 ---
 
