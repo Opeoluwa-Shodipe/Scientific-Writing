@@ -1,4 +1,4 @@
-# CBG 819 Term Paper on the Application of Artificial Intelligence and Machine Learning in Genomic Data Analysis  
+# Application of Artificial Intelligence and Machine Learning in Genomic Data Analysis  
 
 ---
 
