@@ -1,17 +1,5 @@
 # MACHINE LEARNING AND BIG DATA IN MOLECULAR GENETICS: TOWARD GENETICS AND MEDICINE APPLICATIONS
 
-## A TERM PAPER
-
-**BY**  
-**SHODIPE, OPEOLUWA OLUTUNDE**  
-(CBG 801) RUDIMENTS OF RESEARCH METHODS IN BIOLOGY  
-CELL BIOLOGY AND GENETICS (CELL AND MOLECULAR BIOLOGY OPTION)  
-249072045  
-
-**SUPERVISED BY**  
-**DR. A.L OGUNYEBI**  
-**SEPTEMBER, 2025**
-
 ---
 
 ## Table of Contents
@@ -55,4 +43,3 @@ Molecular genetics has witnessed a revolution because of the combination of big 
 
 ---
 
-**Note**: Full markdown content is saved in the downloadable `.md` file.
