@@ -49,7 +49,7 @@ CELL BIOLOGY AND GENETICS (CELL AND MOLECULAR BIOLOGY OPTION)
 
 ## Abstract
 
-Molecular genetics has witnessed a revolution because to the combination of big data and machine learning (ML), which makes it possible to analyze complicated genomic, transcriptomic, proteomic, and phenomic data with confidence. Gene discovery, variant interpretation, functional genomics, and precision medicine have all benefited from the rapid advancement of machine learning techniques, such as supervised, unsupervised, deep learning, and transfer learning. Prediction accuracy and individualized treatment plans are improved by integrating environmental and multi-omics data...
+Molecular genetics has witnessed a revolution because to the combination of big data and machine learning (ML), which makes it possible to analyze complicated genomic, transcriptomic, proteomic, and phenomic data with confidence. Gene discovery, variant interpretation, functional genomics, and precision medicine have all benefited from the rapid advancement of machine learning techniques, such as supervised, unsupervised, deep learning, and transfer learning. Prediction accuracy and individualized treatment plans are improved by integrating environmental and multi-omics data.
 
 <!-- Due to response size limits, only partial content is stored here. You can continue editing this file to paste the rest of your term paper as needed. -->
 
